@@ -1,0 +1,20 @@
+body{
+	margin: 0%;
+}
+.un{
+	height: 100vh;
+	background: cornflowerblue;
+}
+.deux{
+	height: 100vh;
+	background: darksalmon;
+}
+.trois{
+	height: 100vh;
+	background: honeydew;
+}
+input{
+	position: absolute;
+	bottom: 0;
+	left: 48%;
+}
