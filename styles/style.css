@@ -4,6 +4,9 @@ body{
 .un{
 	height: 100vh;
 	background: cornflowerblue;
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;
 }
 .deux{
 	height: 100vh;
@@ -14,7 +17,5 @@ body{
 	background: honeydew;
 }
 .button{
-	display: flex;
-	align-items: flex-end;
-	justify-content: center;
+
 }
