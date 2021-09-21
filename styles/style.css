@@ -11,11 +11,14 @@ body{
 .deux{
 	height: 100vh;
 	background: darksalmon;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 .trois{
 	height: 100vh;
 	background: honeydew;
 }
-.button{
-
+*{
+	transition: 0.4s;
 }
